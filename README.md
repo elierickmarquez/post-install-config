@@ -30,7 +30,7 @@ The first step to take is to make a new role called Supreme Admin. For the purpo
 <br />
 
 <p>
-<img src="https://i.imgur.com/EQnl5rh.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/yTxgenY.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 Next, a new Department will be created for System Administrators. In the Admin panel, open the Agents menu and click on Departments to create a new Department within osTicket.
@@ -38,7 +38,7 @@ Next, a new Department will be created for System Administrators. In the Admin p
 <br />
 
 <p>
-<img src="https://i.imgur.com/d7WuRn8.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/n7yxTNY.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 A new Level II Support Team will have to be created to supplement the Level I Support Team already made within osTicket. To create a new Team, enter the Admin panel and open the Agents menu. Click on Teams and add any new teams that need to be created.
@@ -46,7 +46,7 @@ A new Level II Support Team will have to be created to supplement the Level I Su
 <br />
 
 <p>
-<img src="https://i.imgur.com/UnYyh3B.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/mFfydVh.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 New agents will have to be created so they can take tickets that come to the queue. To create new agents, enter the Admin panel and open the Agents menu. Click on Add New Agent and create the account credentials for each new agent. In this case, Jane and John Doe are created.
@@ -54,7 +54,7 @@ New agents will have to be created so they can take tickets that come to the que
 <br />
 
 <p>
-<img src="https://i.imgur.com/gHvbfS3.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/wT5VE39.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 New users will be created so they can create tickets so that the agents can receive and triage them. To create new users, enter the Agents panel and open the Users menu. Click on Add User and create the account credentials necessary for each new user. In this case, Karen and Ken have been created.
@@ -62,7 +62,7 @@ New users will be created so they can create tickets so that the agents can rece
 <br />
 
 <p>
-<img src="https://i.imgur.com/pI1Cf3Q.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/u5X3wtn.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 Service Level Agreements (SLAs) will have to be made in order to categorize tickets according to their level of impact. To make new SLAs, enter the Admin panel and open the Manage menu. Click on SLA and create any needed SLAs. In this case, SEV-A, B, and C have been created to categorize tickets that need to be resolved within 1 hour, 4 hours, and 8 hours respectively.
@@ -70,7 +70,7 @@ Service Level Agreements (SLAs) will have to be made in order to categorize tick
 <br />
 
 <p>
-<img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/iWl7qmq.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 Finally, Help Topics need to be created to help users select an appropriate category that describes their problem so that Agents get an idea of what problem is described in the ticket. To make a new Help Topic, enter the Admin panel and open the Manage menu. Click on Help Topics and click on Add New Help Topic. In this case, I have added the following in order to use later for when I create new tickets to resolve: Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Request.
