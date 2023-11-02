@@ -19,8 +19,8 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/S33TPEZ.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/7HyoONM.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/EtPRvq4.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/BOZPGml.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 After installing osTicket, it is now time to make configurations to use it as a ticketing system. One thing to note is that I switch between Admin and Agent panels as each panel has different configurations. To tell which panel is used, look at the top right of the osTicket screen. If it reads Agent Panel, the Admin panel is the one being used and vice versa.
@@ -47,7 +47,6 @@ A new Level II Support Team will have to be created to supplement the Level I Su
 
 <p>
 <img src="https://i.imgur.com/UnYyh3B.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/k0lElHH.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 New agents will have to be created so they can take tickets that come to the queue. To create new agents, enter the Admin panel and open the Agents menu. Click on Add New Agent and create the account credentials for each new agent. In this case, Jane and John Doe are created.
